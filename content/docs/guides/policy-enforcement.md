@@ -5,7 +5,6 @@ description: This sample uses the Bookinfo application to demonstrate policy enf
 weight: 40
 draft: true
 ---
-{% include home.html %}
 
 This sample uses the Bookinfo application to demonstrate policy enforcement using Istio Mixer.
 
@@ -20,7 +19,7 @@ Istio.
 * Describe installation options.
 
 * Install Istio control plane in a Kubernetes cluster by following the quick start instructions in the
-[Installation guide]({{home}}/docs/setup/kubernetes/quick-start.html).
+[Installation guide](/docs/setup/kubernetes/quick-start/).
 
 ## Application Setup
 

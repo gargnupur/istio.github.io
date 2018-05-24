@@ -5,7 +5,6 @@ description: This sample demonstrates how to obtain uniform metrics, logs, trace
 weight: 30
 draft: true
 ---
-{% include home.html %}
 
 This sample demonstrates how to obtain uniform metrics, logs, traces across different services using Istio Mixer and Istio sidecar.
 
@@ -18,7 +17,7 @@ Placeholder.
 * Describe installation options.
 
 * Install Istio control plane in a Kubernetes cluster by following the quick start instructions in the
-[Installation guide]({{home}}/docs/setup/kubernetes/quick-start.html).
+[Installation guide](/docs/setup/kubernetes/quick-start/).
 
 ## Application Setup
 

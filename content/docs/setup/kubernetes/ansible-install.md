@@ -6,8 +6,6 @@ weight: 40
 
 ---
 
-{% include home.html %}
-
 Instructions for the installation and configuration of Istio using Ansible.
 
 ## Prerequisites

@@ -5,7 +5,6 @@ description: This sample integrates third party services with Bookinfo and demon
 weight: 50
 draft: true
 ---
-{% include home.html %}
 
 This sample integrates third party services with Bookinfo and demonstrates how to use Istio service mesh to provide metrics, and routing functions for these services.
 
